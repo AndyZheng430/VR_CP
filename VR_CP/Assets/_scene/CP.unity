@@ -1498,7 +1498,7 @@ ParticleRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 2100000, guid: 195b4f9e047477841b25142969cda5a0, type: 2}
+  - {fileID: 2100000, guid: 775f89fd331325a40ab88819955863f2, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
