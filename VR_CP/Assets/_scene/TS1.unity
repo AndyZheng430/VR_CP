@@ -3655,6 +3655,52 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 0b39c4c10c6285a4299b54e8abd95ffc, type: 2}
   m_IsPrefabParent: 0
+--- !u!1001 &425255898
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4343450514662216, guid: 8d56fbcaa49896d4b95a96ff4c05c1f4, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 284.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4343450514662216, guid: 8d56fbcaa49896d4b95a96ff4c05c1f4, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 69.96491
+      objectReference: {fileID: 0}
+    - target: {fileID: 4343450514662216, guid: 8d56fbcaa49896d4b95a96ff4c05c1f4, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 323.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4343450514662216, guid: 8d56fbcaa49896d4b95a96ff4c05c1f4, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4343450514662216, guid: 8d56fbcaa49896d4b95a96ff4c05c1f4, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4343450514662216, guid: 8d56fbcaa49896d4b95a96ff4c05c1f4, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4343450514662216, guid: 8d56fbcaa49896d4b95a96ff4c05c1f4, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4343450514662216, guid: 8d56fbcaa49896d4b95a96ff4c05c1f4, type: 2}
+      propertyPath: m_RootOrder
+      value: 88
+      objectReference: {fileID: 0}
+    - target: {fileID: 1690433781856346, guid: 8d56fbcaa49896d4b95a96ff4c05c1f4, type: 2}
+      propertyPath: m_Name
+      value: Pine_Snowy2 (15)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 8d56fbcaa49896d4b95a96ff4c05c1f4, type: 2}
+  m_IsPrefabParent: 0
 --- !u!1001 &426696984
 Prefab:
   m_ObjectHideFlags: 0
@@ -4830,6 +4876,52 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 0b39c4c10c6285a4299b54e8abd95ffc, type: 2}
   m_IsPrefabParent: 0
+--- !u!1001 &576436399
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4007650719474660, guid: 0b39c4c10c6285a4299b54e8abd95ffc, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 290.66714
+      objectReference: {fileID: 0}
+    - target: {fileID: 4007650719474660, guid: 0b39c4c10c6285a4299b54e8abd95ffc, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 69.964905
+      objectReference: {fileID: 0}
+    - target: {fileID: 4007650719474660, guid: 0b39c4c10c6285a4299b54e8abd95ffc, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 310.31384
+      objectReference: {fileID: 0}
+    - target: {fileID: 4007650719474660, guid: 0b39c4c10c6285a4299b54e8abd95ffc, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4007650719474660, guid: 0b39c4c10c6285a4299b54e8abd95ffc, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4007650719474660, guid: 0b39c4c10c6285a4299b54e8abd95ffc, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4007650719474660, guid: 0b39c4c10c6285a4299b54e8abd95ffc, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4007650719474660, guid: 0b39c4c10c6285a4299b54e8abd95ffc, type: 2}
+      propertyPath: m_RootOrder
+      value: 93
+      objectReference: {fileID: 0}
+    - target: {fileID: 1118891421762772, guid: 0b39c4c10c6285a4299b54e8abd95ffc, type: 2}
+      propertyPath: m_Name
+      value: Pine_Snowy3 (47)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 0b39c4c10c6285a4299b54e8abd95ffc, type: 2}
+  m_IsPrefabParent: 0
 --- !u!1001 &577653107
 Prefab:
   m_ObjectHideFlags: 0
@@ -5829,6 +5921,52 @@ Transform:
   m_PrefabParentObject: {fileID: 4553368889543880, guid: a4bf8dc7b584b3e4990d38e9a928b662,
     type: 2}
   m_PrefabInternal: {fileID: 670804461}
+--- !u!1001 &673470082
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4007650719474660, guid: 0b39c4c10c6285a4299b54e8abd95ffc, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 278.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4007650719474660, guid: 0b39c4c10c6285a4299b54e8abd95ffc, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 68.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4007650719474660, guid: 0b39c4c10c6285a4299b54e8abd95ffc, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 325.64844
+      objectReference: {fileID: 0}
+    - target: {fileID: 4007650719474660, guid: 0b39c4c10c6285a4299b54e8abd95ffc, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4007650719474660, guid: 0b39c4c10c6285a4299b54e8abd95ffc, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4007650719474660, guid: 0b39c4c10c6285a4299b54e8abd95ffc, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4007650719474660, guid: 0b39c4c10c6285a4299b54e8abd95ffc, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4007650719474660, guid: 0b39c4c10c6285a4299b54e8abd95ffc, type: 2}
+      propertyPath: m_RootOrder
+      value: 95
+      objectReference: {fileID: 0}
+    - target: {fileID: 1118891421762772, guid: 0b39c4c10c6285a4299b54e8abd95ffc, type: 2}
+      propertyPath: m_Name
+      value: Pine_Snowy3 (48)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 0b39c4c10c6285a4299b54e8abd95ffc, type: 2}
+  m_IsPrefabParent: 0
 --- !u!1001 &676637724
 Prefab:
   m_ObjectHideFlags: 0
@@ -6487,6 +6625,52 @@ Transform:
   m_PrefabParentObject: {fileID: 4553368889543880, guid: a4bf8dc7b584b3e4990d38e9a928b662,
     type: 2}
   m_PrefabInternal: {fileID: 750341006}
+--- !u!1001 &752826643
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4343450514662216, guid: 8d56fbcaa49896d4b95a96ff4c05c1f4, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 290.7235
+      objectReference: {fileID: 0}
+    - target: {fileID: 4343450514662216, guid: 8d56fbcaa49896d4b95a96ff4c05c1f4, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 69.96491
+      objectReference: {fileID: 0}
+    - target: {fileID: 4343450514662216, guid: 8d56fbcaa49896d4b95a96ff4c05c1f4, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 315.39676
+      objectReference: {fileID: 0}
+    - target: {fileID: 4343450514662216, guid: 8d56fbcaa49896d4b95a96ff4c05c1f4, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4343450514662216, guid: 8d56fbcaa49896d4b95a96ff4c05c1f4, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4343450514662216, guid: 8d56fbcaa49896d4b95a96ff4c05c1f4, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4343450514662216, guid: 8d56fbcaa49896d4b95a96ff4c05c1f4, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4343450514662216, guid: 8d56fbcaa49896d4b95a96ff4c05c1f4, type: 2}
+      propertyPath: m_RootOrder
+      value: 89
+      objectReference: {fileID: 0}
+    - target: {fileID: 1690433781856346, guid: 8d56fbcaa49896d4b95a96ff4c05c1f4, type: 2}
+      propertyPath: m_Name
+      value: Pine_Snowy2 (16)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 8d56fbcaa49896d4b95a96ff4c05c1f4, type: 2}
+  m_IsPrefabParent: 0
 --- !u!1001 &758084659
 Prefab:
   m_ObjectHideFlags: 0
@@ -6686,6 +6870,52 @@ Transform:
   m_PrefabParentObject: {fileID: 4007650719474660, guid: 0b39c4c10c6285a4299b54e8abd95ffc,
     type: 2}
   m_PrefabInternal: {fileID: 770407019}
+--- !u!1001 &771513981
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4007650719474660, guid: 0b39c4c10c6285a4299b54e8abd95ffc, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 290.77838
+      objectReference: {fileID: 0}
+    - target: {fileID: 4007650719474660, guid: 0b39c4c10c6285a4299b54e8abd95ffc, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 69.964905
+      objectReference: {fileID: 0}
+    - target: {fileID: 4007650719474660, guid: 0b39c4c10c6285a4299b54e8abd95ffc, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 321.108
+      objectReference: {fileID: 0}
+    - target: {fileID: 4007650719474660, guid: 0b39c4c10c6285a4299b54e8abd95ffc, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4007650719474660, guid: 0b39c4c10c6285a4299b54e8abd95ffc, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4007650719474660, guid: 0b39c4c10c6285a4299b54e8abd95ffc, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4007650719474660, guid: 0b39c4c10c6285a4299b54e8abd95ffc, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4007650719474660, guid: 0b39c4c10c6285a4299b54e8abd95ffc, type: 2}
+      propertyPath: m_RootOrder
+      value: 96
+      objectReference: {fileID: 0}
+    - target: {fileID: 1118891421762772, guid: 0b39c4c10c6285a4299b54e8abd95ffc, type: 2}
+      propertyPath: m_Name
+      value: Pine_Snowy3 (49)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 0b39c4c10c6285a4299b54e8abd95ffc, type: 2}
+  m_IsPrefabParent: 0
 --- !u!1001 &778701227
 Prefab:
   m_ObjectHideFlags: 0
@@ -11236,6 +11466,52 @@ Transform:
   m_PrefabParentObject: {fileID: 4618246445471406, guid: c81f6f331abdf034d880258f4084a9c1,
     type: 2}
   m_PrefabInternal: {fileID: 1402210122}
+--- !u!1001 &1404988683
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4007650719474660, guid: 0b39c4c10c6285a4299b54e8abd95ffc, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 295.60376
+      objectReference: {fileID: 0}
+    - target: {fileID: 4007650719474660, guid: 0b39c4c10c6285a4299b54e8abd95ffc, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 69.964905
+      objectReference: {fileID: 0}
+    - target: {fileID: 4007650719474660, guid: 0b39c4c10c6285a4299b54e8abd95ffc, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 307.0096
+      objectReference: {fileID: 0}
+    - target: {fileID: 4007650719474660, guid: 0b39c4c10c6285a4299b54e8abd95ffc, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4007650719474660, guid: 0b39c4c10c6285a4299b54e8abd95ffc, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4007650719474660, guid: 0b39c4c10c6285a4299b54e8abd95ffc, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4007650719474660, guid: 0b39c4c10c6285a4299b54e8abd95ffc, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4007650719474660, guid: 0b39c4c10c6285a4299b54e8abd95ffc, type: 2}
+      propertyPath: m_RootOrder
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 1118891421762772, guid: 0b39c4c10c6285a4299b54e8abd95ffc, type: 2}
+      propertyPath: m_Name
+      value: Pine_Snowy3 (46)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 0b39c4c10c6285a4299b54e8abd95ffc, type: 2}
+  m_IsPrefabParent: 0
 --- !u!1001 &1406862279
 Prefab:
   m_ObjectHideFlags: 0
@@ -13243,6 +13519,64 @@ Transform:
   m_PrefabParentObject: {fileID: 4343450514662216, guid: 8d56fbcaa49896d4b95a96ff4c05c1f4,
     type: 2}
   m_PrefabInternal: {fileID: 1719966091}
+--- !u!1001 &1728171608
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4553368889543880, guid: a4bf8dc7b584b3e4990d38e9a928b662, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 295.83572
+      objectReference: {fileID: 0}
+    - target: {fileID: 4553368889543880, guid: a4bf8dc7b584b3e4990d38e9a928b662, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 70.38
+      objectReference: {fileID: 0}
+    - target: {fileID: 4553368889543880, guid: a4bf8dc7b584b3e4990d38e9a928b662, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 312.75778
+      objectReference: {fileID: 0}
+    - target: {fileID: 4553368889543880, guid: a4bf8dc7b584b3e4990d38e9a928b662, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4553368889543880, guid: a4bf8dc7b584b3e4990d38e9a928b662, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4553368889543880, guid: a4bf8dc7b584b3e4990d38e9a928b662, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4553368889543880, guid: a4bf8dc7b584b3e4990d38e9a928b662, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4553368889543880, guid: a4bf8dc7b584b3e4990d38e9a928b662, type: 2}
+      propertyPath: m_RootOrder
+      value: 91
+      objectReference: {fileID: 0}
+    - target: {fileID: 1061314874726726, guid: a4bf8dc7b584b3e4990d38e9a928b662, type: 2}
+      propertyPath: m_Name
+      value: Stone_2_snow_mat (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4553368889543880, guid: a4bf8dc7b584b3e4990d38e9a928b662, type: 2}
+      propertyPath: m_LocalScale.x
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4553368889543880, guid: a4bf8dc7b584b3e4990d38e9a928b662, type: 2}
+      propertyPath: m_LocalScale.y
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4553368889543880, guid: a4bf8dc7b584b3e4990d38e9a928b662, type: 2}
+      propertyPath: m_LocalScale.z
+      value: 2
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: a4bf8dc7b584b3e4990d38e9a928b662, type: 2}
+  m_IsPrefabParent: 0
 --- !u!1001 &1732196887
 Prefab:
   m_ObjectHideFlags: 0
@@ -13447,6 +13781,52 @@ Transform:
   m_PrefabParentObject: {fileID: 4343450514662216, guid: 8d56fbcaa49896d4b95a96ff4c05c1f4,
     type: 2}
   m_PrefabInternal: {fileID: 1743130793}
+--- !u!1001 &1751878663
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4618246445471406, guid: c81f6f331abdf034d880258f4084a9c1, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 282.99228
+      objectReference: {fileID: 0}
+    - target: {fileID: 4618246445471406, guid: c81f6f331abdf034d880258f4084a9c1, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 70.00905
+      objectReference: {fileID: 0}
+    - target: {fileID: 4618246445471406, guid: c81f6f331abdf034d880258f4084a9c1, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 318.06433
+      objectReference: {fileID: 0}
+    - target: {fileID: 4618246445471406, guid: c81f6f331abdf034d880258f4084a9c1, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4618246445471406, guid: c81f6f331abdf034d880258f4084a9c1, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4618246445471406, guid: c81f6f331abdf034d880258f4084a9c1, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4618246445471406, guid: c81f6f331abdf034d880258f4084a9c1, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4618246445471406, guid: c81f6f331abdf034d880258f4084a9c1, type: 2}
+      propertyPath: m_RootOrder
+      value: 94
+      objectReference: {fileID: 0}
+    - target: {fileID: 1927777528021046, guid: c81f6f331abdf034d880258f4084a9c1, type: 2}
+      propertyPath: m_Name
+      value: Pine_Snowy1 (8)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: c81f6f331abdf034d880258f4084a9c1, type: 2}
+  m_IsPrefabParent: 0
 --- !u!1001 &1752261363
 Prefab:
   m_ObjectHideFlags: 0
@@ -13852,6 +14232,52 @@ Transform:
   m_PrefabParentObject: {fileID: 4553368889543880, guid: a4bf8dc7b584b3e4990d38e9a928b662,
     type: 2}
   m_PrefabInternal: {fileID: 1830547307}
+--- !u!1001 &1838875951
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4343450514662216, guid: 8d56fbcaa49896d4b95a96ff4c05c1f4, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 284.95914
+      objectReference: {fileID: 0}
+    - target: {fileID: 4343450514662216, guid: 8d56fbcaa49896d4b95a96ff4c05c1f4, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 70.1317
+      objectReference: {fileID: 0}
+    - target: {fileID: 4343450514662216, guid: 8d56fbcaa49896d4b95a96ff4c05c1f4, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 312.64948
+      objectReference: {fileID: 0}
+    - target: {fileID: 4343450514662216, guid: 8d56fbcaa49896d4b95a96ff4c05c1f4, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4343450514662216, guid: 8d56fbcaa49896d4b95a96ff4c05c1f4, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4343450514662216, guid: 8d56fbcaa49896d4b95a96ff4c05c1f4, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4343450514662216, guid: 8d56fbcaa49896d4b95a96ff4c05c1f4, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4343450514662216, guid: 8d56fbcaa49896d4b95a96ff4c05c1f4, type: 2}
+      propertyPath: m_RootOrder
+      value: 92
+      objectReference: {fileID: 0}
+    - target: {fileID: 1690433781856346, guid: 8d56fbcaa49896d4b95a96ff4c05c1f4, type: 2}
+      propertyPath: m_Name
+      value: Pine_Snowy2 (17)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 8d56fbcaa49896d4b95a96ff4c05c1f4, type: 2}
+  m_IsPrefabParent: 0
 --- !u!1001 &1844825497
 Prefab:
   m_ObjectHideFlags: 0
@@ -14313,6 +14739,52 @@ Transform:
   m_PrefabParentObject: {fileID: 4007650719474660, guid: 0b39c4c10c6285a4299b54e8abd95ffc,
     type: 2}
   m_PrefabInternal: {fileID: 1884988301}
+--- !u!1001 &1891798439
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4343450514662216, guid: 8d56fbcaa49896d4b95a96ff4c05c1f4, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 299.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4343450514662216, guid: 8d56fbcaa49896d4b95a96ff4c05c1f4, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 69.96491
+      objectReference: {fileID: 0}
+    - target: {fileID: 4343450514662216, guid: 8d56fbcaa49896d4b95a96ff4c05c1f4, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 310
+      objectReference: {fileID: 0}
+    - target: {fileID: 4343450514662216, guid: 8d56fbcaa49896d4b95a96ff4c05c1f4, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4343450514662216, guid: 8d56fbcaa49896d4b95a96ff4c05c1f4, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4343450514662216, guid: 8d56fbcaa49896d4b95a96ff4c05c1f4, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4343450514662216, guid: 8d56fbcaa49896d4b95a96ff4c05c1f4, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4343450514662216, guid: 8d56fbcaa49896d4b95a96ff4c05c1f4, type: 2}
+      propertyPath: m_RootOrder
+      value: 87
+      objectReference: {fileID: 0}
+    - target: {fileID: 1690433781856346, guid: 8d56fbcaa49896d4b95a96ff4c05c1f4, type: 2}
+      propertyPath: m_Name
+      value: Pine_Snowy2 (14)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 8d56fbcaa49896d4b95a96ff4c05c1f4, type: 2}
+  m_IsPrefabParent: 0
 --- !u!1001 &1893202926
 Prefab:
   m_ObjectHideFlags: 0
