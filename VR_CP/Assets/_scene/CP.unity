@@ -4362,6 +4362,21 @@ Prefab:
       propertyPath: m_RootOrder
       value: 9
       objectReference: {fileID: 0}
+    - target: {fileID: 15172725442116696, guid: c113739652910d74c9a5a213f1021942,
+        type: 2}
+      propertyPath: m_Ellipsoid.x
+      value: 300
+      objectReference: {fileID: 0}
+    - target: {fileID: 15172725442116696, guid: c113739652910d74c9a5a213f1021942,
+        type: 2}
+      propertyPath: m_Ellipsoid.y
+      value: 300
+      objectReference: {fileID: 0}
+    - target: {fileID: 15172725442116696, guid: c113739652910d74c9a5a213f1021942,
+        type: 2}
+      propertyPath: m_Ellipsoid.z
+      value: 300
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: c113739652910d74c9a5a213f1021942, type: 2}
   m_IsPrefabParent: 0
