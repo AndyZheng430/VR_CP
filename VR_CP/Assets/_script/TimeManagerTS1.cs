@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class TimeManager : MonoBehaviour {
+public class TimeManagerTS1 : MonoBehaviour {
 
 	public static int MinCount;
 	public static int SecCount;
@@ -17,7 +17,7 @@ public class TimeManager : MonoBehaviour {
 	public GameObject millisec;
 
 	void Update () {
-		if (player.transform.position.x >= 10) {
+		if (player.transform.position.x <= 213 && player.transform.position.x >= 202 && player.transform.position.z >= 180 && player.transform.position.z <= 290) {
 			touch = true;
 		}
 		if (touch == false) {
