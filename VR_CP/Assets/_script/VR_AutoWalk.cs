@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class VR_AutoWalk : MonoBehaviour {
 
-	public float speed = 5.0f;			//speed
+	public float speed = 10.0f;			//speed
 	public bool moveForward;			//Move or Not
 	private CharacterController cc;		//Character Controlled Script
 	private GvrEditorEmulator gvrEditor;
